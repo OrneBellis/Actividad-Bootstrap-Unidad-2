@@ -1,0 +1,15 @@
+.bd-placeholder-img{
+  font-size: 18px;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+@media(min-width: 768px){
+  .bd-placeholder-img-lg{
+    font-size: 10px;
+  }
+}
+main{
+  margin-top: 50px;
+}
